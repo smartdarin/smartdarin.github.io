@@ -89,6 +89,7 @@ body{background:#f4f7fb;color:#172033}
 .patent{background:#fff;color:#172033;grid-template-columns:300px 1fr;border:0}
 .patent-stamp{width:230px;height:230px;border-color:#1688e8;outline-color:#1688e8;color:#155b93;background:#eef6ff}
 .patent h2{font-size:clamp(30px,3.5vw,48px)}.patent .section-kicker{color:#55708e}.patent-meta span{color:#657a92}
+.patent-list{margin-top:30px;border-top:1px solid #d8e5f2}.patent-entry{padding:24px 0;border-bottom:1px solid #d8e5f2}.patent-number{margin:0 0 8px;color:#1688e8;font:650 11px var(--sans);letter-spacing:.07em}.patent-entry h3{max-width:900px;margin:0;font-size:clamp(21px,2.2vw,30px);line-height:1.22;letter-spacing:-.025em;font-weight:600}.patent-entry .patent-meta{margin-top:22px}.patent-entry:target{scroll-margin-top:100px}
 
 .capabilities{background:#f4f7fb;color:#172033}
 .skill-matrix{gap:18px;border:0}
